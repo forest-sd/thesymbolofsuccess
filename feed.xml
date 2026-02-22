@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Symbol of Success</title>
-    <link>https://thesymbolofsuccess.pages.dev</link>
+    <link>https://thesymbolofsuccess.com</link>
     <description>Latest posts from The Symbol of Success</description>
     <language>en-us</language>
     <lastBuildDate>2026-02-21</lastBuildDate>
-    <atom:link href="https://thesymbolofsuccess.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://thesymbolofsuccess.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Strategic Thinking in an Age of Uncertainty</title>
-      <link>https://thesymbolofsuccess.pages.dev/blog/strategic-thinking-in-an-age-of-uncertainty/</link>
+      <link>https://thesymbolofsuccess.com/blog/strategic-thinking-in-an-age-of-uncertainty/</link>
       <description>Strategic Thinking in an Age of Uncertainty — an in-depth exploration with evidence-based insights.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
