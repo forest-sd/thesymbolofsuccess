@@ -17,4 +17,34 @@
   <url><loc>https://thesymbolofsuccess.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://thesymbolofsuccess.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://thesymbolofsuccess.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://thesymbolofsuccess.com/blog/building-emotional-intelligence-for-leaders/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://thesymbolofsuccess.com/blog/effective-communication-skills-for-professional-growth/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://thesymbolofsuccess.com/blog/goal-setting-frameworks-beyond-smart-objectives/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://thesymbolofsuccess.com/blog/mindfulness-in-leadership-performance-and-wellbeing/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://thesymbolofsuccess.com/blog/resilience-training-bouncing-back-from-setbacks/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
